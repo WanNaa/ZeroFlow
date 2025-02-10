@@ -1,3 +1,3 @@
 # ZeroFlow
 
-This repository is prepared for the official implementation of "ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think" [[paper](https://arxiv.org/pdf/2501.01045)].
+This repository is prepared for the official implementation of "ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think" [[arxiv](https://arxiv.org/pdf/2501.01045)].
